@@ -1,0 +1,4 @@
+interface:
+  display_name: "bianhao703-art 多平台内容读取"
+  short_description: "读取公众号、抖音、B站、小红书图文及可用字幕，标注来源与读取范围"
+  default_prompt: "使用 $social-content-reader 读取我提供的分享链接或内容文件，提取正文或字幕并总结，说明实际读取范围。"
