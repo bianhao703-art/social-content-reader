@@ -1,0 +1,16 @@
+{
+  "source_url": "https://example.com/article",
+  "platform": "web",
+  "read_at": "2026-10-13T00:00:00+08:00",
+  "method": "local-html",
+  "status": "body_extracted",
+  "title": "虚构文章示例",
+  "author": "示例作者",
+  "published_at": "2026-10-01",
+  "text": "这是自写的虚构示例正文，不来自任何平台原文。",
+  "images": [
+    { "url": "https://example.com/image.jpg", "alt": "示例配图", "read": false }
+  ],
+  "coverage": ["article-text"],
+  "limitations": ["仅文章文字已提取；图片、嵌入视频、评论与分页尚未读取。"]
+}
